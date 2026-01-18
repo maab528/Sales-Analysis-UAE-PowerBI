@@ -1,2 +1,3 @@
 # Sales-Analysis-UAE-PowerBI
-Sales performance analysis for a retail company in the UAE using Power BI
+This project analyzes sales data for a retail company operating in the UAE using Power BI.
+
