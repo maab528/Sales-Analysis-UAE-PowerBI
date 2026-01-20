@@ -44,16 +44,13 @@ and anonymized to preserve confidentiality.
 ---
 
 ## 📂 Project Structure
-- `dashboard.png` → Dashboard screenshot  
-- `documentation.pdf` → Project documentation  
+- `Dashboard/IMG_1920.jpeg` → Dashboard screenshot  
+- `Documentation.pdf` → Project documentation  
 - `README.md` → Project overview  
 
 ---
 
-## 🚀 How to Use
-1. Open the dashboard in Power BI.
-2. Use city filters to explore sales performance.
-3. Analyze KPIs, charts, and insights for decision-making.
+
 
 
 ## 👩‍💻 Maab Faisal
