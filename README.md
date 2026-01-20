@@ -39,8 +39,7 @@ and anonymized to preserve confidentiality.
 
 ## 🛠 Tools & Technologies
 - Power BI  
-- Data Visualization  
-- Data Analysis  
+- Dax  
 
 ---
 
@@ -56,15 +55,6 @@ and anonymized to preserve confidentiality.
 2. Use city filters to explore sales performance.
 3. Analyze KPIs, charts, and insights for decision-making.
 
----
-
-## 🔮 Future Improvements
-- Add more KPIs (Profit, Growth Rate)
-- Include yearly comparison
-- Automate data refresh
-- Enhance dashboard design and interactivity
-
----
 
 ## 👩‍💻 Maab Faisal
 - GitHub: https://github.com/your-username  
