@@ -16,8 +16,7 @@ and anonymized to preserve confidentiality.
 ---
 
 ## 🖼 Dashboard Preview
-![Sales-Analysis-UAE-PowerBI](dashboard.png)
-
+![Sales-Analysis-UAE-PowerBI](Dashboard/IMG_1920.jpeg)
 ---
 
 ## 📌 Key Insights
