@@ -4,7 +4,7 @@ This project analyzes sales data for a retail company operating in the UAE using
 This project uses adjusted data to preserve confidentiality while demonstrating analytical skills
 
 
-Note: The data used in this project has been modified 
+##Note: The data used in this project has been modified 
 and anonymized to preserve confidentiality.
 
 🎯 Objectives
@@ -32,13 +32,12 @@ Key Insights
 - Top 3 Customers Analysis
 - City-based Filtering for interactive analysis
 
----
+
 
 ## 🛠 Tools & Technologies
 - Power BI  
 - Dax  
 
----
 
 ## 📂 Project Structure
 - `Dashboard/IMG_1920.jpeg` → Dashboard screenshot  
@@ -49,6 +48,5 @@ Key Insights
 
 
 ## 👩‍💻 Maab Faisal
-- GitHub: https://github.com/your-username  
 - LinkedIn: (http://linkedin.com/in/maab-faisal-291a52219)
 
