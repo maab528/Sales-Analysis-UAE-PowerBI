@@ -50,5 +50,5 @@ Key Insights
 
 ## 👩‍💻 Maab Faisal
 - GitHub: https://github.com/your-username  
-- LinkedIn: (Optional)
+- LinkedIn: (http://linkedin.com/in/maab-faisal-291a52219)
 
